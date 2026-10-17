@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @e2ue4
-- 👀 I’m interested in hacking and software enjinering
-- 🌱 I’m currently learning at school.
-- 💞️ I’m looking to collaborate on some hackers
-- 📫 How to reach me ...
-- 😄 Pronouns: He, Him
-- ⚡ Fun fact: i am s2om4one
+HI, My name is Eyuel Seifu
+I am grade 11 student in Ethiopia
+Self taught Python and Java Script
+Teached 20+ students
+Contact: eyu.himself Instagram
+         eyu.himself TikTok
